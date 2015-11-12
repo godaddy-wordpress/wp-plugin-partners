@@ -1,7 +1,6 @@
 {
-	[
+	"my-plugin" : [
 		"name": "My Plugin",
-		"slug": "my-plugin",
 		"basename": "my-plugin/my-plugin.php",
 		"version": "1.0.0",
 		"author": "John Doe",
