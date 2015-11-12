@@ -1,6 +1,7 @@
 {
-	"my-plugin" : [
+	{
 		"name": "My Plugin",
+		"slug": "my-plugin",
 		"basename": "my-plugin/my-plugin.php",
 		"version": "1.0.0",
 		"author": "John Doe",
@@ -9,5 +10,5 @@
 		"homepage": "http://myplugin.com",
 		"description": "Just another very amazing WordPress plugin.",
 		"short_description": "Just another WordPress plugin."
-	]
+	}
 }
