@@ -1,11 +1,11 @@
 {
 	"my-commercial-plugin": {
 		"name": "My Commercial Plugin",
-		"basename": "my-commercial-plugin/my-commercial-plugin.php",
 		"version": "1.0.0",
 		"author": "John Doe",
 		"requires": "4.1",
 		"tested": "4.4",
+		"icon": "https://placehold.it/256x256",
 		"homepage": "http://myplugin.com",
 		"description": "Just another very amazing commercial WordPress plugin.",
 		"short_description": "Just another WordPress plugin."
