@@ -7,9 +7,9 @@
 		"tested": "4.4",
 		"icon": "https://placehold.it/256x256",
 		"homepage": "http://myplugin.com",
-		"description": "Just another very amazing commercial WordPress plugin.",
 		"short_description": "Just another WordPress plugin."
 	},
+	"akismet": {},
 	"archived-post-status": {},
 	"prevent-concurrent-logins": {}
 }
