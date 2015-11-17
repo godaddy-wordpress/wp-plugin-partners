@@ -1,0 +1,18 @@
+# Copyright (C) 2015 GoDaddy, Inc.
+msgid ""
+msgstr ""
+"Project-Id-Version: GoDaddy PPP\n"
+"POT-Creation-Date: 2015-11-17 12:05-0600\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "The most complete solution for Backup, Restoration, Migration, and Deployment of WordPress sites. Protecting your sites since 2010."
+msgstr ""
