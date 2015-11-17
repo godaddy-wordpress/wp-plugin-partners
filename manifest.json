@@ -1,6 +1,4 @@
 {
-	"akismet": {},
-	"archived-post-status": {},
 	"backupbuddy": {
 		"name": "BackupBuddy",
 		"version": "1.0.0",
@@ -12,6 +10,9 @@
 		"homepage": "https://ithemes.com/purchase/backupbuddy/",
 		"short_description": "The most complete solution for Backup, Restoration, Migration, and Deployment of WordPress sites. Protecting your sites since 2010."
 	},
+	"better-wp-security": {},
+	"easy-digital-downloads": {},
+	"ithemes-exchange": {},
 	"my-commercial-plugin": {
 		"name": "My Commercial Plugin",
 		"version": "1.0.0",
@@ -22,6 +23,5 @@
 		"icon": "https://placehold.it/256x256",
 		"homepage": "http://myplugin.com",
 		"short_description": "Just another WordPress plugin."
-	},
-	"prevent-concurrent-logins": {}
+	}
 }
