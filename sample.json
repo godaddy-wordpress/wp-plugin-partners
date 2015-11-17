@@ -3,12 +3,12 @@
 	"my-commercial-plugin": {
 		"name": "My Commercial Plugin",
 		"version": "1.0.0",
-		"author": "<a href=\"https://www.google.com\">John Doe</a>",
+		"author": "<a href=\"http://mycompany.com\">Company Name</a>",
 		"requires": "4.1",
 		"tested": "4.4",
 		"last_updated": 1447375914,
-		"icon": "https://placehold.it/256x256",
-		"homepage": "http://myplugin.com",
+		"icon": "assets/images/my-commercial-plugin-icon.svg",
+		"homepage": "http://mycompany.com/my-commercial-plugin",
 		"short_description": "Just another WordPress plugin."
 	}
 }
