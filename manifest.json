@@ -6,7 +6,7 @@
 		"requires": "4.1",
 		"tested": "4.4",
 		"last_updated": 1447375914,
-		"icon": "https://raw.githubusercontent.com/godaddy/wp-test/master/assets/images/ithemes-backupbuddy-icon-256.png",
+		"icon": "https://cdn.rawgit.com/godaddy/wp-test/master/assets/images/ithemes-backupbuddy-icon-256.png",
 		"homepage": "https://ithemes.com/purchase/backupbuddy/",
 		"short_description": "The most complete solution for Backup, Restoration, Migration, and Deployment of WordPress sites. Protecting your sites since 2010."
 	},
@@ -20,7 +20,7 @@
 		"requires": "4.1",
 		"tested": "4.4",
 		"last_updated": 1447375914,
-		"icon": "https://raw.githubusercontent.com/godaddy/wp-test/master/assets/images/ithemes-sync-icon-256.png",
+		"icon": "https://cdn.rawgit.com/godaddy/wp-test/master/assets/images/ithemes-sync-icon-256.png",
 		"homepage": "https://ithemes.com/sync/",
 		"short_description": "Manage updates to your WordPress sites easily in one place, allowing you to spend more time doing what you do best."
 	}
