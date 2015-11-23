@@ -1,5 +1,9 @@
 {
 	"akismet": {},
+	"hello-dolly": {
+		"plugins_api": true,
+		"name": "Hello there, Dolly!"
+	},
 	"my-commercial-plugin": {
 		"name": "My Commercial Plugin",
 		"version": "1.0.0",
