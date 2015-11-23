@@ -1,6 +1,4 @@
-# wp-test
-WP Test
-
+# WordPress Plugin Partners
 
 ## Add using the Plugins API
 
