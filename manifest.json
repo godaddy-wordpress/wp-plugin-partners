@@ -10,7 +10,10 @@
 		"homepage": "https://ithemes.com/purchase/backupbuddy/",
 		"short_description": "The most complete solution for Backup, Restoration, Migration, and Deployment of WordPress sites. Protecting your sites since 2010."
 	},
-	"better-wp-security": {},
+	"better-wp-security": {
+		"api": true,
+		"name": "iThemes Security"
+	},
 	"easy-digital-downloads": {},
 	"ithemes-exchange": {},
 	"ninja-forms": {},
