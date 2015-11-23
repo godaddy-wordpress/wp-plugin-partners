@@ -14,7 +14,7 @@ If your plugin is already hosted for free on <a href="https://wordpress.org/plug
 
 ### Overriding fields
 
-Occasionally, you may want to present data differently than it appears on WordPress.org. In this case you will need to indicate that you do want to use the Plugins API, and any additional fields you specify in the object will take precedence over Plugins API data.
+Occasionally, you may want to present data differently than it appears on WordPress.org. In this case you will need to indicate that you _do_ want to use the Plugins API by declaring `"plugins_api": true`, and any additional fields you specify in the object will take precedence over Plugins API data.
 
 **EXAMPLE**
 
@@ -29,15 +29,15 @@ Occasionally, you may want to present data differently than it appears on WordPr
 
 ## Add a commercial plugin
 
-If you are adding a plugin that is _not_ hosted on WordPress.org you will need to provide your own plugin data manually to the manifest.
+If you are adding a plugin that is _not_ hosted on WordPress.org you will need to provide _all_ of your plugin data in the manifest.
 
-Required fields:
+**Required fields:**
 
 * `name` - The name of your plugin.
-* `version` - The current version number of your plugin.
-* `author` - HTML link to the author homepage.
+* `version` - The current version number of your plugin (we recommend [Semantic Versioning](http://semver.org/)).
+* `author` - HTML anchor of the author name linking to the author homepage.
 * `icon` - Relative path to your SVG icon under `assets/images/`.
-* `homepage` - Homepage URL for your plugin (different from the author homepage).
+* `homepage` - Homepage URL for your plugin (should be different from the author homepage).
 * `short_description` - Describe your plugin in 140 characters or less.
 
 **EXAMPLE**
