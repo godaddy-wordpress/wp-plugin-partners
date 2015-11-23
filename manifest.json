@@ -11,12 +11,12 @@
 		"short_description": "The most complete solution for Backup, Restoration, Migration, and Deployment of WordPress sites. Protecting your sites since 2010."
 	},
 	"better-wp-security": {
-		"api": true,
+		"plugins_api": true,
 		"name": "iThemes Security"
 	},
 	"easy-digital-downloads": {},
 	"ithemes-exchange": {
-		"api": true,
+		"plugins_api": true,
 		"name": "iThemes Exchange"
 	},
 	"ninja-forms": {},
@@ -32,7 +32,7 @@
 		"short_description": "Manage updates to your WordPress sites easily in one place, allowing you to spend more time doing what you do best."
 	},
 	"worker": {
-		"api": true,
+		"plugins_api": true,
 		"name": "ManageWP"
 	}
 }
