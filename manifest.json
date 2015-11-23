@@ -18,7 +18,7 @@
 	"ithemes-exchange": {},
 	"ninja-forms": {},
 	"sync": {
-		"name": "Sync",
+		"name": "iThemes Sync",
 		"version": "1.0.0",
 		"author": "<a href=\"https://ithemes.com\">iThemes</a>",
 		"requires": "4.1",
