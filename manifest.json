@@ -15,7 +15,10 @@
 		"name": "iThemes Security"
 	},
 	"easy-digital-downloads": {},
-	"ithemes-exchange": {},
+	"ithemes-exchange": {
+		"api": true,
+		"name": "iThemes Exchange"
+	},
 	"ninja-forms": {},
 	"sync": {
 		"name": "iThemes Sync",
