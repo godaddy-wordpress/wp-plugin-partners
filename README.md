@@ -71,3 +71,4 @@ All icons are served through a CDN that is cached indefinitely. So if you decide
 ## Other things to note
 
 * Changes will be visible to all users within 12 hours
+* Plugins are displayed to users in random order
