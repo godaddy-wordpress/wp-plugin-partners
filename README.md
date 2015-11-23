@@ -58,4 +58,6 @@ Required fields:
 }
 ```
 
-Note that your `icon` should be a path relative to the manifest in this repo to a file contained in the `assets/images` directory.
+Note that your `icon` should be a relative path to a file contained inside the `assets/images` directory.
+
+All icon assets are served through a CDN that is cached indefinitely. So if you decide to change your icon in the future you must push a _new asset_ with a _new file name_.
