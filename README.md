@@ -14,7 +14,7 @@ If your plugin is already hosted for free on <a href="https://wordpress.org/plug
 }
 ```
 
-### Overriding certain fields
+### Overriding fields
 
 Occasionally, you may want to present data differently than it appears on WordPress.org. In this case you will need to indicate that you do want to use the Plugins API, and any additional fields you specify in the object will take precedence over Plugins API data.
 
@@ -45,19 +45,29 @@ Required fields:
 **EXAMPLE**
 
 ```json
-"my-commercial-plugin": {
-		"name": "My Commercial Plugin",
-		"version": "1.0.0",
-		"author": "<a href=\"https://mycompany.com\">Company Name</a>",
-		"icon": "assets/images/my-commercial-plugin-icon.svg",
-		"homepage": "https://mycompany.com/my-commercial-plugin",
-		"short_description": "Just another WordPress plugin.",
-		"requires": "4.1",
-		"tested": "4.4",
-		"last_updated": "2015-11-17 21:15:00"
+{
+  "my-commercial-plugin": {
+    "name": "My Commercial Plugin",
+    "version": "1.0.0",
+    "author": "<a href=\"https://mycompany.com\">Company Name</a>",
+    "icon": "assets/images/my-commercial-plugin-icon.svg",
+    "homepage": "https://mycompany.com/my-commercial-plugin",
+    "short_description": "Just another WordPress plugin.",
+    "requires": "4.1",
+    "tested": "4.4",
+    "last_updated": "2015-11-17 21:15:00"
+	}
 }
 ```
 
-Note that your `icon` should be a relative path to a file contained inside the `assets/images` directory.
+### Icon assets
 
-All icon assets are served through a CDN that is cached indefinitely. So if you decide to change your icon in the future you must push a _new asset_ with a _new file name_.
+Your `icon` should be a relative path to a file contained inside the `assets/images` directory.
+
+Please use the SVG format for your icon asset.
+
+All icons are served through a CDN that is cached indefinitely. So if you decide to change your icon in the future you must push a **new asset** with a **new file name** and update the path in the manifest accordingly.
+
+## Other things to note
+
+* Changes will be visible to all users within 12 hours
