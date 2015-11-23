@@ -33,12 +33,12 @@ If you are adding a plugin that is _not_ hosted on WordPress.org you will need t
 
 Required fields:
 
-* `name`
-* `version`
-* `author`
-* `icon`
-* `homepage`
-* `short_description`
+* `name` - The name of your plugin.
+* `version` - The current version number of your plugin.
+* `author` - HTML link to the author homepage.
+* `icon` - Relative path to your icon in `assets/images/`.
+* `homepage` - Homepage URL for your plugin (different from the author homepage).
+* `short_description` - Describe your plugin in 140 characters or less.
 
 **EXAMPLE**
 
