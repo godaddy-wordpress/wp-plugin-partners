@@ -42,7 +42,7 @@ Required fields:
 * `homepage`
 * `short_description`
 
-**EXAMPLE***
+**EXAMPLE**
 
 ```json
 "my-commercial-plugin": {
@@ -57,3 +57,5 @@ Required fields:
 		"last_updated": "2015-11-17 21:15:00"
 }
 ```
+
+Note that your `icon` should be a path relative to the manifest in this repo to a file contained in the `assets/images` directory.
