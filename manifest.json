@@ -3,9 +3,6 @@
 		"name": "BackupBuddy",
 		"version": "1.0.0",
 		"author": "<a href=\"https://ithemes.com\">iThemes</a>",
-		"requires": "4.1",
-		"tested": "4.4",
-		"last_updated": "2015-11-17 21:15:00",
 		"icon": "assets/images/ithemes-backupbuddy-icon.svg",
 		"homepage": "https://ithemes.com/purchase/backupbuddy/",
 		"short_description": "The most complete solution for Backup, Restoration, Migration, and Deployment of WordPress sites. Protecting your sites since 2010."
@@ -24,9 +21,6 @@
 		"name": "iThemes Sync",
 		"version": "1.0.0",
 		"author": "<a href=\"https://ithemes.com\">iThemes</a>",
-		"requires": "4.1",
-		"tested": "4.4",
-		"last_updated": "2015-11-17 21:15:00",
 		"icon": "assets/images/ithemes-sync-icon.svg",
 		"homepage": "https://ithemes.com/sync/",
 		"short_description": "Manage updates to your WordPress sites easily in one place, allowing you to spend more time doing what you do best."
