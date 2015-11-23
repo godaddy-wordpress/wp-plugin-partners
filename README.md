@@ -36,7 +36,7 @@ Required fields:
 * `name` - The name of your plugin.
 * `version` - The current version number of your plugin.
 * `author` - HTML link to the author homepage.
-* `icon` - Relative path to your icon in `assets/images/`.
+* `icon` - Relative path to your SVG icon under `assets/images/`.
 * `homepage` - Homepage URL for your plugin (different from the author homepage).
 * `short_description` - Describe your plugin in 140 characters or less.
 
