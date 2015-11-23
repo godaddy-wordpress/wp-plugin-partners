@@ -60,4 +60,4 @@ If you are adding a plugin that is _not_ hosted on WordPress.org you will need t
 * Changes will be visible to all users within 12 hours.
 * Plugins are displayed to users in random order.
 * Your icon asset should be in SVG format.
-* All icons are served through a CDN that is cached indefinitely. So if you decide to change your icon in the future you must push a **new asset** with a **new file name** and update the path in the manifest accordingly.
+* All icons for commercial plugins are served through a CDN that is cached indefinitely. So if you decide to change your icon in the future you must push a **new asset** with a **new file name** and update the path in the manifest accordingly.
