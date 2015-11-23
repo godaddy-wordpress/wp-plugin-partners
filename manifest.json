@@ -31,5 +31,8 @@
 		"homepage": "https://ithemes.com/sync/",
 		"short_description": "Manage updates to your WordPress sites easily in one place, allowing you to spend more time doing what you do best."
 	},
-	"worker": {}
+	"worker": {
+		"api": true,
+		"name": "ManageWP"
+	}
 }
