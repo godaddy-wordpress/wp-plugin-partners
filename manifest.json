@@ -11,7 +11,12 @@
 		"plugins_api": true,
 		"name": "iThemes Security"
 	},
+	"coming-soon": {
+		"plugins_api": true,
+		"name": "Coming Soon Page"
+	},
 	"easy-digital-downloads": {},
+	"formidable": {},
 	"ithemes-exchange": {
 		"plugins_api": true,
 		"name": "iThemes Exchange"
@@ -24,6 +29,10 @@
 		"icon": "assets/images/ithemes-sync-icon.svg",
 		"homepage": "https://ithemes.com/sync/",
 		"short_description": "Manage updates to your WordPress sites easily in one place, allowing you to spend more time doing what you do best."
+	},
+	"updraftplus": {
+		"plugins_api": true,
+		"name": "UpdraftPlus"
 	},
 	"worker": {
 		"plugins_api": true,
