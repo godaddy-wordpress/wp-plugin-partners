@@ -7,10 +7,12 @@
 		"homepage": "https://ithemes.com/purchase/backupbuddy/",
 		"short_description": "The most complete solution for Backup, Restoration, Migration, and Deployment of WordPress sites. Protecting your sites since 2010."
 	},
+	"bbpress": {},
 	"better-wp-security": {
 		"plugins_api": true,
 		"name": "iThemes Security"
 	},
+	"buddypress": {},
 	"coming-soon": {
 		"plugins_api": true,
 		"name": "Coming Soon Page"
@@ -21,6 +23,7 @@
 		"plugins_api": true,
 		"name": "iThemes Exchange"
 	},
+	"mailchimp-for-wp": {},
 	"ninja-forms": {},
 	"sync": {
 		"name": "iThemes Sync",
