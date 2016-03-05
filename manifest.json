@@ -25,6 +25,10 @@
 	},
 	"mailchimp-for-wp": {},
 	"ninja-forms": {},
+	"shareaholic": {
+		"plugins_api": true,
+		"name": "Shareaholic"
+	},
 	"sync": {
 		"name": "iThemes Sync",
 		"version": "1.0.0",
@@ -37,6 +41,8 @@
 		"plugins_api": true,
 		"name": "UpdraftPlus"
 	},
+	"wp-e-commerce": {},
+	"wp-smushit": {},
 	"worker": {
 		"plugins_api": true,
 		"name": "ManageWP"
