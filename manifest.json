@@ -43,6 +43,7 @@
 	},
 	"wp-e-commerce": {},
 	"wp-smushit": {},
+	"wordfence": {},
 	"worker": {
 		"plugins_api": true,
 		"name": "ManageWP"
