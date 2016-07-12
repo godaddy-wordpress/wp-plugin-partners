@@ -13,6 +13,7 @@
 		"name": "iThemes Security"
 	},
 	"buddypress": {},
+	"contact-widgets": {},
 	"coming-soon": {
 		"plugins_api": true,
 		"name": "Coming Soon Page"
