@@ -13,11 +13,11 @@
 		"name": "iThemes Security"
 	},
 	"buddypress": {},
-	"contact-widgets": {},
 	"coming-soon": {
 		"plugins_api": true,
 		"name": "Coming Soon Page"
 	},
+	"contact-widgets": {},
 	"easy-digital-downloads": {},
 	"formidable": {},
 	"ithemes-exchange": {
