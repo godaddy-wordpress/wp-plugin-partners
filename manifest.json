@@ -18,8 +18,15 @@
 		"name": "Coming Soon Page"
 	},
 	"contact-widgets": {},
+	"custom-facebook-feed": {},
+	"custom-post-type-ui": {},
 	"easy-digital-downloads": {},
 	"formidable": {},
+	"google-calendar-events":{
+		"plugins_api": true,
+		"name": "Simple Calendar"
+	},
+	"instagram-feed": {},
 	"ithemes-exchange": {
 		"plugins_api": true,
 		"name": "iThemes Exchange"
@@ -43,11 +50,13 @@
 		"name": "UpdraftPlus"
 	},
 	"wp-e-commerce": {},
+	"wp-migrate-db": {},
 	"wp-smushit": {},
 	"wpclef": {},
 	"wordfence": {},
 	"worker": {
 		"plugins_api": true,
 		"name": "ManageWP"
-	}
+	},
+	"yikes-inc-easy-mailchimp-extender": {}
 }
